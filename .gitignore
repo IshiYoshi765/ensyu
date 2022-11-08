@@ -1,0 +1,2 @@
+# .gitignoreのファイルを管理対象外に
+*.class
